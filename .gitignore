@@ -7,7 +7,7 @@
 *.dll
 *.so
 *.dylib
-github-cli
+github-activity
 
 # Test binary, built with `go test -c`
 *.test

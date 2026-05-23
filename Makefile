@@ -1,4 +1,4 @@
-APP=github-cli
+APP=github-activity
 
 build:
 	go build -o $(APP)
